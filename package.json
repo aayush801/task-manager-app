@@ -1,0 +1,20 @@
+{
+  "name": "introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "args": "^5.0.1",
+    "chalk": "^4.1.0",
+    "nodemon": "^1.18.5",
+    "npm": "^6.14.7",
+    "validator": "^13.1.1",
+    "yargs": "^15.4.1"
+  }
+}
